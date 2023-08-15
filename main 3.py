@@ -549,3 +549,6 @@
 print("Hello git")
 
 print("Hello Github")
+
+print("Должно все работать")
+
